@@ -26,6 +26,6 @@ The Big O time complexity of this approach is O(n), where 'n' is the number of e
 const reverseArray = require('./reverseArray');
 
 // Example 1:
-const inputArray1 = [1, 2, 3, 4, 5, 6];
+const inputArray1 = [1, 2, 3, 4, 5, 6, 7];
 const reversed1 = reverseArray(inputArray1);
-console.log(reversed1); // Output: [6, 5, 4, 3, 2, 1]```
+console.log(reversed1); // Output: [7, 6, 5, 4, 3, 2, 1]```
