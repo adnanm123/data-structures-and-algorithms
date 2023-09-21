@@ -85,4 +85,5 @@ From the `data-structures-and-algorithms/javascript` folder, execute the followi
 Note that when you check your code into GitHub, all of your tests will automatically execute. These results should match your own, and will be found on the  **Actions** tab
 
 - [Array Reverse](array-reverse/README.md)
-- [Array Reverse](array-insert-shift/README.md)
+- [Array Insert Shift](array-insert-shift/README.md)
+- [Array Binary Search](array-binary-search/README.md)
