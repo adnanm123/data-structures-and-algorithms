@@ -89,3 +89,4 @@ Note that when you check your code into GitHub, all of your tests will automatic
 - [Array Binary Search](array-binary-search/README.md)
 - [Mock Interview](mock-interviews/README.md)
 - [Linked List](linked-lists/README.md)
+- [Linked List Insertions](linked-list-insertions/README.md)
