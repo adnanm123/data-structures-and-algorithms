@@ -90,3 +90,5 @@ Note that when you check your code into GitHub, all of your tests will automatic
 - [Mock Interview](mock-interviews/README.md)
 - [Linked List](linked-lists/README.md)
 - [Linked List Insertions](linked-list-insertions/README.md)
+- [Linked List KTH](linked-list-kth/README.md)
+- [Linked List ZIP](linked-list-zip/README.md)
