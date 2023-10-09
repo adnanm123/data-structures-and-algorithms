@@ -62,4 +62,3 @@ console.log(preOrderResult); // [10, 5, 15]
 // Check if a value exists
 const containsResult = tree.contains(5);
 console.log(containsResult); // true
-```
