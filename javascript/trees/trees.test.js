@@ -82,3 +82,16 @@ describe('BinarySearchTree', () => {
     expect(tree.contains(9)).toBe(false);
   });
 });
+
+it('should successfully return the maximum value for the findMax method', () => {
+  const tree = new BinarySearchTree();
+  tree.add(4);
+  tree.add(2);
+  tree.add(6);
+  tree.add(1);
+  tree.add(3);
+  tree.add(5);
+  tree.add(7);
+
+  expect(tree.findMax()).toEqual(7);
+});

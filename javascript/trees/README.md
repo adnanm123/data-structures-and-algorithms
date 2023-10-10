@@ -7,6 +7,7 @@ This challenge involves implementing various tree data structures and traversal 
 ## Whiteboard Process
 
 ![Code Challenge 15](codechallenge15.png)
+![Code Challenge 16](codechallenge16.png)
 
 ## Approach & Efficiency
 
@@ -34,6 +35,7 @@ This challenge involves implementing various tree data structures and traversal 
 - Test 5: Can successfully return a collection from an in-order traversal.
 - Test 6: Can successfully return a collection from a post-order traversal.
 - Test 7: Returns true/false for the contains method, given an existing or non-existing node value.
+- Test 8: Creates a binary search tree, adds values to it, and then uses the findMax method to check if it returns the correct maximum value.
 
 ## How to Use
 
