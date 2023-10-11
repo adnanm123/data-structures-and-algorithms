@@ -15,7 +15,7 @@ This challenge involves implementing various tree data structures and traversal 
 - Binary Tree Class: Implement a Binary Tree class with methods for depth-first traversals using recursion.
 - Binary Search Tree Class: Create a Binary Search Tree class as a subclass of the Binary Tree class, adding methods for adding and searching values in the tree.
 
-### Big O Notation:
+### Big O Notation
 
 - Time Complexity for Traversals: O(n)
 - Space Complexity for Traversals: O(h), where h is the height of the tree.
