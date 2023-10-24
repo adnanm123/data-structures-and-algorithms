@@ -16,4 +16,7 @@
 - [Trees Find Max](trees/README.md)
 - [Trees BreadthFirst](tree-breadth-first/README.md)
 
-<!-- Testing -->
+- [Trees Fizz Buzz](tree-fizz-buzz/README.md)
+- [Sorting/Insertion](sorting/insertion/README.md)
+
+
