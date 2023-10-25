@@ -17,3 +17,4 @@
 - [Trees BreadthFirst](tree-breadth-first/README.md)
 - [Trees Fizz Buzz](tree-fizz-buzz/README.md)
 - [Sorting/Insertion](sorting/insertion/README.md)
+- [Merge](sorting/merge/README.md)
