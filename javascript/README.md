@@ -18,5 +18,4 @@
 - [Trees Fizz Buzz](tree-fizz-buzz/README.md)
 - [Sorting/Insertion](sorting/insertion/README.md)
 - [Merge](sorting/merge/README.md)
-
-<!-- Testing -->
+- [Sort and Filter](sort-and-filter/README.md)
