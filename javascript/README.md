@@ -19,3 +19,4 @@
 - [Sorting/Insertion](sorting/insertion/README.md)
 - [Merge](sorting/merge/README.md)
 - [Sort and Filter](sort-and-filter/README.md)
+- [HashTable](hashtable/README.md)
