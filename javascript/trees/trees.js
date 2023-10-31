@@ -192,3 +192,5 @@ console.log(tree.contains(5)); // Should return true
 console.log(tree.contains(8)); // Should return false
 
 module.exports = { BinarySearchTree };
+
+
