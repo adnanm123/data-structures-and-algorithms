@@ -21,3 +21,5 @@
 - [hashmap-repeated-word](hashmap-repeated-word/README.md)
 - [Sort and Filter](sort-and-filter/README.md)
 - [HashTable](hashtable/README.md)
+- [tree-intersection](tree-intersection/README.md)
+- [HashTable](hashtable/README.md)
