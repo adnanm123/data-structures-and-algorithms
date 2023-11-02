@@ -18,7 +18,10 @@
 - [Trees Fizz Buzz](tree-fizz-buzz/README.md)
 - [Sorting/Insertion](sorting/insertion/README.md)
 - [Merge](sorting/merge/README.md)
+- [hashmap-repeated-word](hashmap-repeated-word/README.md)
 - [Sort and Filter](sort-and-filter/README.md)
 - [HashTable](hashtable/README.md)
 - [tree-intersection](tree-intersection/README.md)
 - [hashmap-left-join](hashmap-left-join/README.md)
+- [HashTable](hashtable/README.md)
+
