@@ -2,13 +2,7 @@
 
 Implement a graph using an adjacency list, complete with methods for adding vertices and edges, retrieving all vertices and neighbors, and checking the size of the graph.
 
-## Challenge Setup & Execution
-
-Branch Name: `graph`
-
-Challenge Type: New Implementation
-
-### Features
+## Features
 
 - **addVertex(value)**: Adds a vertex to the graph.
 - **addEdge(vertex1, vertex2, weight)**: Adds an edge between two vertices in the graph. A weight is optional.
