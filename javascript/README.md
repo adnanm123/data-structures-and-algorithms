@@ -23,3 +23,7 @@
 - [tree-intersection](tree-intersection/README.md)
 - [hashmap-left-join](hashmap-left-join/README.md)
 - [Graph-Business](javascript/graph-business-trip/README.md)
+- [hashmap-repeated-word](hashmap-repeated-word/README.md)
+- [Graph](graph/README.md)
+- [graph-breadth-first](graph-breadth-first/README.md)
+
