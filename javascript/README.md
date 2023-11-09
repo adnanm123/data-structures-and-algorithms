@@ -22,3 +22,4 @@
 - [HashTable](hashtable/README.md)
 - [tree-intersection](tree-intersection/README.md)
 - [hashmap-left-join](hashmap-left-join/README.md)
+- [Graph-Business](javascript/graph-business-trip/README.md)
